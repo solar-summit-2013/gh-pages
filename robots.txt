@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://solar-summit-2013.org/sitemap.xml
